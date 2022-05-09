@@ -1,2 +1,2 @@
-# admin-template
-Template con tailwind para admin
+# admin-template-laravel
+Template con tailwind y laravel para admin 
